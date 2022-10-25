@@ -1,16 +1,13 @@
-# cat_api
+# Cat Image Api
 
-A new Flutter project.
+Rendering Cat Images on refresh button. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## ⚠️ Warning
 
-A few resources to get you started if this is your first Flutter project:
+This app could potentially cause addiction of cats 😂
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Proved more addictive than Reels and YT Shorts
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Run it at your own risk 
+
